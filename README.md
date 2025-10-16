@@ -61,6 +61,11 @@ O dataset utilizado foi o **TMDB 5000 Movie Dataset**, obtido através do [Kaggl
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Criado por
 
-**Nome:** [Paloma Cordeiro]
+**Paloma Cordeiro**
+
+* **LinkedIn:** [\[LinkedIn\]](br.linkedin.com/in/paloma-cordeiro-119750b6)
+* **GitHub:** [\[GitHub\]](https://github.com/palomacdev)
+
+**Repositório:** `movie-profitability-analysis` 
